@@ -211,3 +211,13 @@ For issues or questions, please check the Django documentation or create an issu
 
 This project is open source and available under the MIT License.
 
+
+<img width="1365" height="632" alt="Screenshot 2025-12-02 163108" src="https://github.com/user-attachments/assets/1dc5a75b-9e1d-4644-8f3c-71219729163b" />
+
+<img width="1365" height="636" alt="Screenshot 2025-12-02 163124" src="https://github.com/user-attachments/assets/a4993fd6-6cdd-44e0-812a-f3537df1c323" />
+
+<img width="1365" height="631" alt="Screenshot 2025-12-02 163232" src="https://github.com/user-attachments/assets/7b39a184-8735-4ff3-9f9e-5e5705ea4e53" />
+
+
+
+
